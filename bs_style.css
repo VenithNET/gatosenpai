@@ -250,3 +250,5 @@ dt { font-weight: bold ; color: lightgray ; }
 .pull-right {
     float: right !important;
 }
+
+cursor: url("http://www.venith.net/images/cursor.png"), auto;
