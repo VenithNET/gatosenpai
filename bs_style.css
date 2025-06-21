@@ -1,6 +1,6 @@
 /* Defaults */
 body {
-*, a, button, body {cursor:url('http://www.venith.net/assets/images/cursor.png'), auto!important;}
+*, a, button, body {cursor:url('http://www.venith.net/images/cursor.png'), auto!important;}
 }
 :root {
     --genwidth: 850px ;
