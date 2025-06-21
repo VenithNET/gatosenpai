@@ -1,3 +1,7 @@
+/* Defaults */
+body {
+*, a, button, body {cursor:url('http://www.venith.net/assets/images/cursor.png'), auto!important;}
+}
 :root {
     --genwidth: 850px ;
     --navwidth: 175px ;
@@ -250,5 +254,3 @@ dt { font-weight: bold ; color: lightgray ; }
 .pull-right {
     float: right !important;
 }
-
-cursor: url("http://www.venith.net/images/cursor.png"), auto;
